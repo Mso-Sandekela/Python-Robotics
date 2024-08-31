@@ -23,8 +23,8 @@ Text file
 live_memory.txt is the robot’s live memory. Its purpose is to act as the storage place for the python program. The robot’s activities must be consistently saved so that if the robot runs out of batteries during the run, next time it is started it needs to be able to start from its last instruction before it shuts down. I chose the text file because it is the most flexible file to store and retrieve and importantly to iterate through the file.
 
 					
-					                     GoPiGo3 Robot
-    Robot’s Right Side       Disconnected (Green)     Connected (Blue)            Robot’s Left Side
+					  GoPiGo3 Robot
+    Robot’s Right Side       Disconnected (Green)   Connected (Blue)      Robot’s Left Side
 ![image](https://github.com/user-attachments/assets/0762c1b4-93e9-48ca-b560-8f34c9c5461d)      		![image](https://github.com/user-attachments/assets/56519589-a745-4025-bad4-c118cd069e60) 	![image](https://github.com/user-attachments/assets/f3306845-004e-4c11-a587-09075aeef662)		![image](https://github.com/user-attachments/assets/92643c5c-2515-4543-b0fa-e05612d30e35)
 
 
