@@ -13,13 +13,13 @@ These are the following files I created and use:
 2)	CSV file named (saved_directions.csv) 
 3)	Text file named (live_memory.txt)
 
-Jupyter NoteBook file 
+Jupyter NoteBook file -- 
 Cyber_rover.ipynb is the backbone of the robot’s purpose. This file contains code that generates the random directions the robot wants to go; the user only specifies how many directions/steps the robot should take. Not only that but this file is also responsible for creating the csv and the text file.
 
-CSV file
+CSV file -- 
 Saved_directions.csv is responsible for saving the programs generated directions so that the python file can retrieve to run them on the robot or retrieve to reverse them then run them on the robot.
 
-Text file 
+Text file -- 
 live_memory.txt is the robot’s live memory. Its purpose is to act as the storage place for the python program. The robot’s activities must be consistently saved so that if the robot runs out of batteries during the run, next time it is started it needs to be able to start from its last instruction before it shuts down. I chose the text file because it is the most flexible file to store and retrieve and importantly to iterate through the file.
 
 					
