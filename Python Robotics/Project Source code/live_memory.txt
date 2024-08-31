@@ -1,0 +1,9 @@
+>> Moving left
+>> R.U-Turn-Step1
+>> R.U-Turn-Step2
+>> R.U-Turn-Step3
+>> R.U-Turn-Step4
+>> Moving right
+>> Moving backwards
+>> L.U-Turn-Step1
+>> L.U-Turn-Step2
