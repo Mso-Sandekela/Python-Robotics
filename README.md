@@ -1,6 +1,10 @@
 # Python-Robotics
 This project integrates machine learning and robotics to build a fully functional robot using GoPiGo3 and Raspbian for Robots in a Raspberry PI while using Python as the instructing programming language. 
 
+Project Description
+Cyber-Random-Rover
+
+
 Cyber-Random-Rover in simple terms is a robot that uses a program that automates the GoPiGo with a memory that allows it to remember instructions. This robot drives around freely with no lines to follow, it does not just drive around in straight line but in random directions and straight lines for a while sometimes makes U-turns. The Cyber-Random-Rover has a memory so that it remembers the instructions that were processed. When the robot has finished processing all the movements it then performs all the movements backwards. The first instruction becomes the last instruction to be processed.
 
 All this is made possible by the program I programmed using the Jupyter Notebook interface, which I access through the IP address 10.10.10.10 after connected to the Wi-Fi of DexterOS designed for the GoPiGo3. 
