@@ -8,7 +8,7 @@ This project integrates machine learning and robotics to build a fully functiona
 I named this Robot Cyber-Random-Rover, Cyber-Random-Rover in simple terms is a robot that uses a program that automates the GoPiGo with a memory that allows it to remember instructions. This robot drives around freely with no lines to follow, it does not just drive around in straight line but in random directions and straight lines for a while sometimes makes U-turns. The Cyber-Random-Rover has a memory so that it remembers the instructions that were processed. When the robot has finished processing all the movements it then performs all the movements backwards. The first instruction becomes the last instruction to be processed.
 
 All this is made possible by the program I programmed using the Jupyter Notebook interface, which I access through the IP address 10.10.10.10 after connected to the Wi-Fi of DexterOS designed for the GoPiGo3. 
-These are the following files I use:
+These are the following files I created and use:
 1)	Python file (cyber_rover.ipynb)
 2)	CSV file named (saved_directions.csv) 
 3)	Text file named (live_memory.txt)
