@@ -9,11 +9,11 @@ I named this Robot Cyber-Random-Rover, Cyber-Random-Rover in simple terms is a r
 
 All this is made possible by the program I programmed using the Jupyter Notebook interface, which I access through the IP address 10.10.10.10 after connected to the Wi-Fi of DexterOS designed for the GoPiGo3. 
 These are the following files I created and use:
-1)	Python file (cyber_rover.ipynb)
+1)	Jupyter NoteBook file (cyber_rover.ipynb)
 2)	CSV file named (saved_directions.csv) 
 3)	Text file named (live_memory.txt)
 
-Python file 
+Jupyter NoteBook file 
 Cyber_rover.ipynb is the backbone of the robot’s purpose. This file contains code that generates the random directions the robot wants to go; the user only specifies how many directions/steps the robot should take. Not only that but this file is also responsible for creating the csv and the text file.
 
 CSV file
