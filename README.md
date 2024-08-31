@@ -25,5 +25,6 @@ live_memory.txt is the robot’s live memory. Its purpose is to act as the stora
 					
 					                   GoPiGo3 Robot
         Robot’s Right Side                Disconnected (Green)     Connected (Blue)                   Robot’s Left Side
+![image](https://github.com/user-attachments/assets/0762c1b4-93e9-48ca-b560-8f34c9c5461d)
 
        
